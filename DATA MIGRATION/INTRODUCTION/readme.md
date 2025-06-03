@@ -20,6 +20,8 @@ For **organizations**, the concept is the same: they want to improve things for 
 
 **Understanding *why* you are migrating**, your main motivation, is considered the **most important aspect**. Knowing the why allows for better decision-making and increases the chance of migration success.
 
+![Image showing Data Migration](Data Migration Image.png)
+
 ## The Migration Journey: Plan, Prepare, Perform
 
 Whether it involves migrating people or cloud applications, the process typically unfolds in **three key steps**: **Plan**, **Prepare**, and **Perform**. While naming conventions may differ among cloud or service providers, these are the fundamental phases.
