@@ -10,8 +10,6 @@ Cloud migration can be broadly divided into three phases:
 - **Migrate**: Execute the actual migration of workloads and data to the cloud.
 - **Modernize**: Optimize and evolve applications and infrastructure after migration.
 
-![Image showing MAP](A_2D_informational_infographic_showcases_AWS_Cloud.png)
-
 ## People Migration Analogy
 
 Migration can be compared to people moving between countries. Like individuals rely on consultancies or companies to help with immigration, AWS MAP provides guidance, funding, and tools for cloud migration.
@@ -24,6 +22,8 @@ MAP helps enterprises move to AWS using best practices, tools, training, and fun
 - Partner and consultancy support
 - Funding and investment credits
 - Tools and workshops for training and readiness
+
+  ![Image showing MAP](MAP.png)
 
 ## Key Services and Tools
 
