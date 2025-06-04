@@ -15,6 +15,8 @@ Migration Evaluator helps simplify the analysis of your on-premise infrastructur
 
 It helps you avoid manually checking every detail, which would take too much time.
 
+![Migration Evaluator](Migration Evaluator.png)
+
 ## How to Access
 
 This tool is **not accessed through the regular AWS console**. You need to go to a specific web address, console.tso logic.com.
